@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1074080928520",
+    "project_id": "ulearning-app",
+    "storage_bucket": "ulearning-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074080928520:android:51a86c0910d520d76852bd",
+        "android_client_info": {
+          "package_name": "com.dbestech.ulearning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074080928520-6jhd4378hu9sm1hejtpi52013u92t4l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1umUK99sEkNK7fKGDLfXDhfeTwydH-V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074080928520-6jhd4378hu9sm1hejtpi52013u92t4l1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074080928520-aujflci1kgq4le6lornvkg42uq1vuh8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbestech.ulearningApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
